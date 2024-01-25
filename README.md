@@ -1,4 +1,4 @@
-# MPEI
+# Mapa del Parc de l'Espanya Industrial (MPEI)
 Projecte social començat el 2019 al FAB-Casa del Mig (Sants)
 
 ## Seguiment
