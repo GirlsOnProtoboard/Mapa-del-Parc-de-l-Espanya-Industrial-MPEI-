@@ -1,7 +1,7 @@
 # MPEI
 Projecte social començat el 2019 al FAB-Casa del Mig (Sants)
 
-2019: projecte comú amb l'equipament de FAB-Casa del Mig
+2019: inici del projecte pel barri de Sants i presentació el dia de la jornada oberta d'Arduino Girls
 
 2023-2024: continuació del projecte
 
