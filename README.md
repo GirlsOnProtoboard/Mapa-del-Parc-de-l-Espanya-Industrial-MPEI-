@@ -1,6 +1,8 @@
 # MPEI
 Projecte social començat el 2019 al FAB-Casa del Mig (Sants)
+
 2019: projecte comú amb l'equipament de FAB-Casa del Mig
+
 2023-2024: continuació del projecte
 
 ## Tasques actuals
