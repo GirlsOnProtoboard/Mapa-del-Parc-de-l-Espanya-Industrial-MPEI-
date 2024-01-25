@@ -1,2 +1,2 @@
 # MPEI
-Social project started in 2019 at FAB-Casa del Mig
+Porjecte social començat el 2019 al FAB-Casa del Mig (Sants)
